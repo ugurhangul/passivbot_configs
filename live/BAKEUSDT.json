@@ -1,0 +1,36 @@
+{
+  "config_name": "BAKEUSDT long-0.00572688969399299 short--0.0161819200446331",
+  "logging_level": 0,
+  "long": {
+    "auto_unstuck_ema_dist": -0.0035274991190886824,
+    "auto_unstuck_wallet_exposure_threshold": 0.0013176476333397026,
+    "ddown_factor": 2.644568372214659,
+    "ema_span_0": 41.49899582985807,
+    "ema_span_1": 136.89811496278486,
+    "enabled": true,
+    "initial_eprice_ema_dist": -0.09657453444293743,
+    "initial_qty_pct": 0.017197202764749838,
+    "markup_range": 0.06882430572443587,
+    "min_markup": 0.06459442858026554,
+    "n_close_orders": 2,
+    "rentry_pprice_dist": 0.005,
+    "rentry_pprice_dist_wallet_exposure_weighting": 8.406160499653641,
+    "wallet_exposure_limit": 0.17358126164886986
+  },
+  "short": {
+    "auto_unstuck_ema_dist": -0.055488387538857015,
+    "auto_unstuck_wallet_exposure_threshold": 0.009705294791775766,
+    "ddown_factor": 1.6561222385244712,
+    "ema_span_0": 7.328325563842753,
+    "ema_span_1": 133.76524663991034,
+    "enabled": false,
+    "initial_eprice_ema_dist": -0.02603443549053153,
+    "initial_qty_pct": 0.019539834157824218,
+    "markup_range": 0.005330034301117892,
+    "min_markup": 0.004256449276939776,
+    "n_close_orders": 8,
+    "rentry_pprice_dist": 0.007174539419910322,
+    "rentry_pprice_dist_wallet_exposure_weighting": 0.0,
+    "wallet_exposure_limit": 0.19067272727756868
+  }
+}

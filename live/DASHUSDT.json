@@ -1,0 +1,36 @@
+{
+  "config_name": "DASHUSDT long-0.00201534397886655 short-0.000630950374521849",
+  "logging_level": 0,
+  "long": {
+    "auto_unstuck_ema_dist": -0.020445269660271385,
+    "auto_unstuck_wallet_exposure_threshold": 0.025792973399892796,
+    "ddown_factor": 2.6283680862073004,
+    "ema_span_0": 50.68625935817987,
+    "ema_span_1": 552.0147350737286,
+    "enabled": true,
+    "initial_eprice_ema_dist": 0.0006174303750518099,
+    "initial_qty_pct": 0.014194447355700194,
+    "markup_range": 0.026937630271916167,
+    "min_markup": 0.003551384831845205,
+    "n_close_orders": 18,
+    "rentry_pprice_dist": 0.03565152274249998,
+    "rentry_pprice_dist_wallet_exposure_weighting": 0.0,
+    "wallet_exposure_limit": 0.16851882830805537
+  },
+  "short": {
+    "auto_unstuck_ema_dist": -0.040796684730495435,
+    "auto_unstuck_wallet_exposure_threshold": 0.025924090304007302,
+    "ddown_factor": 0.5540155606159218,
+    "ema_span_0": 9.276422233417211,
+    "ema_span_1": 428.21014788508654,
+    "enabled": true,
+    "initial_eprice_ema_dist": -0.0609244566581653,
+    "initial_qty_pct": 0.013683168257087642,
+    "markup_range": 0.018635838796188155,
+    "min_markup": 0.0012273769586783824,
+    "n_close_orders": 15,
+    "rentry_pprice_dist": 0.005,
+    "rentry_pprice_dist_wallet_exposure_weighting": 0.0,
+    "wallet_exposure_limit": 0.17888595301422355
+  }
+}

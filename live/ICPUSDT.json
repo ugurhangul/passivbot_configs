@@ -1,0 +1,36 @@
+{
+  "config_name": "ICPUSDT long-0.00127829254364948 short-0.000161887745362939",
+  "logging_level": 0,
+  "long": {
+    "auto_unstuck_ema_dist": 0.0,
+    "auto_unstuck_wallet_exposure_threshold": 0.0020082996921891296,
+    "ddown_factor": 1.8886124093816117,
+    "ema_span_0": 51.10544414480317,
+    "ema_span_1": 612.0494082815671,
+    "enabled": true,
+    "initial_eprice_ema_dist": 0.0032959633549084775,
+    "initial_qty_pct": 0.1,
+    "markup_range": 0.026914471019620995,
+    "min_markup": 0.019361066839319218,
+    "n_close_orders": 2,
+    "rentry_pprice_dist": 0.006229597116163225,
+    "rentry_pprice_dist_wallet_exposure_weighting": 3.6493379799241508,
+    "wallet_exposure_limit": 0.1
+  },
+  "short": {
+    "auto_unstuck_ema_dist": 0.0,
+    "auto_unstuck_wallet_exposure_threshold": 0.026761874068722224,
+    "ddown_factor": 2.736911253369231,
+    "ema_span_0": 18.020124035699375,
+    "ema_span_1": 1135.445411802561,
+    "enabled": true,
+    "initial_eprice_ema_dist": -0.029317857351515028,
+    "initial_qty_pct": 0.1,
+    "markup_range": 0.001200220404252762,
+    "min_markup": 0.00788648960500389,
+    "n_close_orders": 2,
+    "rentry_pprice_dist": 0.006954911558927473,
+    "rentry_pprice_dist_wallet_exposure_weighting": 2.750918957176105,
+    "wallet_exposure_limit": 0.1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "config_name": "KAVAUSDT long-0.00701115318155986 short--0.000841763312524516",
+  "logging_level": 0,
+  "long": {
+    "auto_unstuck_ema_dist": 0.011012523012668661,
+    "auto_unstuck_wallet_exposure_threshold": 0.038362353104360335,
+    "ddown_factor": 2.643857454975729,
+    "ema_span_0": 56.10696075935672,
+    "ema_span_1": 1266.318157915037,
+    "enabled": true,
+    "initial_eprice_ema_dist": 0.005225135408821739,
+    "initial_qty_pct": 0.1620773304965902,
+    "markup_range": 0.012192626861813586,
+    "min_markup": 0.01630503954456853,
+    "n_close_orders": 2,
+    "rentry_pprice_dist": 0.005,
+    "rentry_pprice_dist_wallet_exposure_weighting": 0.0,
+    "wallet_exposure_limit": 0.2
+  },
+  "short": {
+    "auto_unstuck_ema_dist": 0.0,
+    "auto_unstuck_wallet_exposure_threshold": 0.22698045785387622,
+    "ddown_factor": 2.90301113421681,
+    "ema_span_0": 24.062373922299443,
+    "ema_span_1": 172.06849199545363,
+    "enabled": true,
+    "initial_eprice_ema_dist": -0.0017485609935162173,
+    "initial_qty_pct": 0.15132385206561056,
+    "markup_range": 0.006982125917198835,
+    "min_markup": 0.001944620521904689,
+    "n_close_orders": 2,
+    "rentry_pprice_dist": 0.005,
+    "rentry_pprice_dist_wallet_exposure_weighting": 0.02546685538283633,
+    "wallet_exposure_limit": 0.19428507443886295
+  }
+}

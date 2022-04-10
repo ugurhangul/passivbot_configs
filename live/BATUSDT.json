@@ -1,0 +1,36 @@
+{
+  "config_name": "BATUSDT long-0.00124017481528458 short--0.00312938481014543",
+  "logging_level": 0,
+  "long": {
+    "auto_unstuck_ema_dist": 0.0,
+    "auto_unstuck_wallet_exposure_threshold": 0.008586216825072135,
+    "ddown_factor": 0.2911795078211576,
+    "ema_span_0": 38.58963206234961,
+    "ema_span_1": 1399.6004992562173,
+    "enabled": true,
+    "initial_eprice_ema_dist": -0.037762040409716084,
+    "initial_qty_pct": 0.1,
+    "markup_range": 0.027104488937282803,
+    "min_markup": 0.022174655028335842,
+    "n_close_orders": 2,
+    "rentry_pprice_dist": 0.005528499521379834,
+    "rentry_pprice_dist_wallet_exposure_weighting": 3.98571994014842,
+    "wallet_exposure_limit": 0.1
+  },
+  "short": {
+    "auto_unstuck_ema_dist": 0.0,
+    "auto_unstuck_wallet_exposure_threshold": 0.0697094641368202,
+    "ddown_factor": 0.21826808978154275,
+    "ema_span_0": 47.720131301919686,
+    "ema_span_1": 60.0,
+    "enabled": true,
+    "initial_eprice_ema_dist": -0.0008926223571437001,
+    "initial_qty_pct": 0.1,
+    "markup_range": 0.001030425170739161,
+    "min_markup": 0.001,
+    "n_close_orders": 2,
+    "rentry_pprice_dist": 0.005,
+    "rentry_pprice_dist_wallet_exposure_weighting": 0.5923431959395784,
+    "wallet_exposure_limit": 0.1
+  }
+}

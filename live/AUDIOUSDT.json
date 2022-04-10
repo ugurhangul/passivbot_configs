@@ -1,0 +1,36 @@
+{
+  "config_name": "AUDIOUSDT long-0.0068517117333682 short-0.00219835774340389",
+  "logging_level": 0,
+  "long": {
+    "auto_unstuck_ema_dist": 0.0,
+    "auto_unstuck_wallet_exposure_threshold": 0.0,
+    "ddown_factor": 3.0,
+    "ema_span_0": 57.01911237820219,
+    "ema_span_1": 60.0,
+    "enabled": true,
+    "initial_eprice_ema_dist": -0.05724759510430315,
+    "initial_qty_pct": 0.15102365185267629,
+    "markup_range": 0.018705197310959695,
+    "min_markup": 0.023370348284208628,
+    "n_close_orders": 2,
+    "rentry_pprice_dist": 0.058352984629360005,
+    "rentry_pprice_dist_wallet_exposure_weighting": 0.0,
+    "wallet_exposure_limit": 0.1954308965220041
+  },
+  "short": {
+    "auto_unstuck_ema_dist": 0.07164634551431243,
+    "auto_unstuck_wallet_exposure_threshold": 0.3688293367556435,
+    "ddown_factor": 2.361912412407837,
+    "ema_span_0": 26.565234612849956,
+    "ema_span_1": 184.96439348650546,
+    "enabled": true,
+    "initial_eprice_ema_dist": 0.007323967065230567,
+    "initial_qty_pct": 0.14126594997972457,
+    "markup_range": 0.047551718703373304,
+    "min_markup": 0.0018826096314187972,
+    "n_close_orders": 2,
+    "rentry_pprice_dist": 0.009718354151623363,
+    "rentry_pprice_dist_wallet_exposure_weighting": 37.10936773070155,
+    "wallet_exposure_limit": 0.2
+  }
+}
