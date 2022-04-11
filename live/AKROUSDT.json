@@ -1,0 +1,36 @@
+{
+  "config_name": "AKROUSDT long-0.000783453722902866 short--0.0029692352903511",
+  "logging_level": 0,
+  "long": {
+    "auto_unstuck_ema_dist": 0.011698132786796683,
+    "auto_unstuck_wallet_exposure_threshold": 0.007994476154370085,
+    "ddown_factor": 0.04413051721139549,
+    "ema_span_0": 34.60712549713624,
+    "ema_span_1": 751.91026906273,
+    "enabled": true,
+    "initial_eprice_ema_dist": 0.02102306295317697,
+    "initial_qty_pct": 0.1,
+    "markup_range": 0.025041444277480316,
+    "min_markup": 0.03343399608661532,
+    "n_close_orders": 1,
+    "rentry_pprice_dist": 0.005,
+    "rentry_pprice_dist_wallet_exposure_weighting": 8.595323872394731,
+    "wallet_exposure_limit": 0.19514299005805164
+  },
+  "short": {
+    "auto_unstuck_ema_dist": -0.06741581990840037,
+    "auto_unstuck_wallet_exposure_threshold": 0.018827070327273054,
+    "ddown_factor": 1.9060392973015705,
+    "ema_span_0": 8.698986264791033,
+    "ema_span_1": 89.13094614371471,
+    "enabled": false,
+    "initial_eprice_ema_dist": -0.026124434159764495,
+    "initial_qty_pct": 0.1,
+    "markup_range": 0.04170993575877246,
+    "min_markup": 0.001,
+    "n_close_orders": 1,
+    "rentry_pprice_dist": 0.005,
+    "rentry_pprice_dist_wallet_exposure_weighting": 2.0572842547670636,
+    "wallet_exposure_limit": 0.18270295841421524
+  }
+}
