@@ -1,0 +1,36 @@
+{
+  "config_name": "BTCUSDT long-0.000501639788456078 short-0.000437087968143468",
+  "logging_level": 0,
+  "long": {
+    "auto_unstuck_ema_dist": 0.07448767606478639,
+    "auto_unstuck_wallet_exposure_threshold": 0.02544236053076243,
+    "ddown_factor": 2.7512583563680613,
+    "ema_span_0": 32.12304332635627,
+    "ema_span_1": 1002.1320540792344,
+    "enabled": true,
+    "initial_eprice_ema_dist": 0.01,
+    "initial_qty_pct": 0.012542970165340105,
+    "markup_range": 0.0033092609623910827,
+    "min_markup": 0.004235785219919946,
+    "n_close_orders": 9,
+    "rentry_pprice_dist": 0.06466740312776473,
+    "rentry_pprice_dist_wallet_exposure_weighting": 41.42024830928913,
+    "wallet_exposure_limit": 0.1289010106801302
+  },
+  "short": {
+    "auto_unstuck_ema_dist": 0.00883248197277553,
+    "auto_unstuck_wallet_exposure_threshold": 0.06839791131366069,
+    "ddown_factor": 1.9657375512692017,
+    "ema_span_0": 46.42620931629128,
+    "ema_span_1": 466.5437791261578,
+    "enabled": true,
+    "initial_eprice_ema_dist": 0.0043112826138579224,
+    "initial_qty_pct": 0.01203933503381706,
+    "markup_range": 0.001088219071560385,
+    "min_markup": 0.03941164228406244,
+    "n_close_orders": 4,
+    "rentry_pprice_dist": 0.013980112309860633,
+    "rentry_pprice_dist_wallet_exposure_weighting": 70.27082654171777,
+    "wallet_exposure_limit": 0.15902162792160218
+  }
+}

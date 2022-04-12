@@ -1,0 +1,36 @@
+{
+  "config_name": "ETHUSDT long-0.0000915732674010048 short-0.000111886532622939",
+  "logging_level": 0,
+  "long": {
+    "auto_unstuck_ema_dist": 0.010499384133180923,
+    "auto_unstuck_wallet_exposure_threshold": 0.0759324133030686,
+    "ddown_factor": 1.722719617605139,
+    "ema_span_0": 7.317775722934556,
+    "ema_span_1": 1157.3602008980272,
+    "enabled": true,
+    "initial_eprice_ema_dist": 0.006960719375747899,
+    "initial_qty_pct": 0.016015961028488464,
+    "markup_range": 0.004375399198360267,
+    "min_markup": 0.004039840416979941,
+    "n_close_orders": 13,
+    "rentry_pprice_dist": 0.047437695804285945,
+    "rentry_pprice_dist_wallet_exposure_weighting": 57.88128019108658,
+    "wallet_exposure_limit": 0.1451888656779969
+  },
+  "short": {
+    "auto_unstuck_ema_dist": 0.015259118087347905,
+    "auto_unstuck_wallet_exposure_threshold": 0.00293022075672032,
+    "ddown_factor": 2.813842662515197,
+    "ema_span_0": 48.37318118840663,
+    "ema_span_1": 1236.2907673769228,
+    "enabled": true,
+    "initial_eprice_ema_dist": 0.01,
+    "initial_qty_pct": 0.019224458074572303,
+    "markup_range": 0.03359191835637997,
+    "min_markup": 0.005207747176415483,
+    "n_close_orders": 19,
+    "rentry_pprice_dist": 0.009555073245177292,
+    "rentry_pprice_dist_wallet_exposure_weighting": 11.234650518321825,
+    "wallet_exposure_limit": 0.1990635596188305
+  }
+}

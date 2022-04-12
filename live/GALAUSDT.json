@@ -1,0 +1,36 @@
+{
+  "config_name": "GALAUSDT long-0.000195840504701129 short--0.0000727588306034625",
+  "logging_level": 0,
+  "long": {
+    "auto_unstuck_ema_dist": 0.08007610139091811,
+    "auto_unstuck_wallet_exposure_threshold": 0.06940026778092878,
+    "ddown_factor": 1.2435058585484802,
+    "ema_span_0": 1.0687165425324598,
+    "ema_span_1": 1116.6473527260218,
+    "enabled": true,
+    "initial_eprice_ema_dist": 0.01,
+    "initial_qty_pct": 0.016065378352450643,
+    "markup_range": 0.04396407241281169,
+    "min_markup": 0.0047563433624175575,
+    "n_close_orders": 17,
+    "rentry_pprice_dist": 0.028417261835427195,
+    "rentry_pprice_dist_wallet_exposure_weighting": 6.05883691720549,
+    "wallet_exposure_limit": 0.11935429248882173
+  },
+  "short": {
+    "auto_unstuck_ema_dist": 0.013268323135831987,
+    "auto_unstuck_wallet_exposure_threshold": 0.053364591582807465,
+    "ddown_factor": 0.4893918773087501,
+    "ema_span_0": 35.14978395366084,
+    "ema_span_1": 1037.8391744986284,
+    "enabled": false,
+    "initial_eprice_ema_dist": 0.004621359714640755,
+    "initial_qty_pct": 0.010519482780571856,
+    "markup_range": 0.016468030759517974,
+    "min_markup": 0.009860426034358289,
+    "n_close_orders": 13,
+    "rentry_pprice_dist": 0.011711496687836026,
+    "rentry_pprice_dist_wallet_exposure_weighting": 11.819499131556153,
+    "wallet_exposure_limit": 0.1318158731972865
+  }
+}

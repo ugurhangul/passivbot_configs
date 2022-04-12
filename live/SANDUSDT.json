@@ -1,0 +1,36 @@
+{
+  "config_name": "SANDUSDT long-0.0000293508023339258 short-0.000339788437622597",
+  "logging_level": 0,
+  "long": {
+    "auto_unstuck_ema_dist": 0.049501215184665465,
+    "auto_unstuck_wallet_exposure_threshold": 0.004280264169489611,
+    "ddown_factor": 1.7231051549524992,
+    "ema_span_0": 49.07539863397884,
+    "ema_span_1": 528.9669189515923,
+    "enabled": true,
+    "initial_eprice_ema_dist": -0.09541129133368563,
+    "initial_qty_pct": 0.0104521422460224,
+    "markup_range": 0.030887556907058286,
+    "min_markup": 0.04882944959418214,
+    "n_close_orders": 2,
+    "rentry_pprice_dist": 0.09809409089931699,
+    "rentry_pprice_dist_wallet_exposure_weighting": 3.5658346079716274,
+    "wallet_exposure_limit": 0.1864726252870601
+  },
+  "short": {
+    "auto_unstuck_ema_dist": 0.009170901855271751,
+    "auto_unstuck_wallet_exposure_threshold": 0.03053319130088461,
+    "ddown_factor": 2.4073427671913468,
+    "ema_span_0": 11.952747871185057,
+    "ema_span_1": 1330.003197357581,
+    "enabled": true,
+    "initial_eprice_ema_dist": -0.05767742736285629,
+    "initial_qty_pct": 0.012253189532377922,
+    "markup_range": 0.008111497421935458,
+    "min_markup": 0.035112605435939206,
+    "n_close_orders": 9,
+    "rentry_pprice_dist": 0.020293077735487337,
+    "rentry_pprice_dist_wallet_exposure_weighting": 9.72909588223357,
+    "wallet_exposure_limit": 0.14885024976372535
+  }
+}
