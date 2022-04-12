@@ -14,8 +14,7 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - name: Deploy to IIS
+    - name: Deploy to Live
       run: |
-       Copy-Item ./live/* /home/ubuntu/passivbot/configs/live/
-     
+       cp -Ri ./live/ /home/ubuntu/passivbot/configs/live/    
         
