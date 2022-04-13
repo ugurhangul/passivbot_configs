@@ -1,0 +1,36 @@
+{
+  "config_name": "AVAXUSDT long--0.0324247187237713 short-0.041577630022053",
+  "logging_level": 0,
+  "long": {
+    "auto_unstuck_ema_dist": 0.05113122269730647,
+    "auto_unstuck_wallet_exposure_threshold": 0.8901796122702248,
+    "ddown_factor": 2.831347665477808,
+    "ema_span_0": 26.5916485013971,
+    "ema_span_1": 821.7118512830743,
+    "enabled": false,
+    "initial_eprice_ema_dist": 0.0,
+    "initial_qty_pct": 0.010505827752994135,
+    "markup_range": 0.031306302301467505,
+    "min_markup": 0.056069839166046964,
+    "n_close_orders": 9,
+    "rentry_pprice_dist": 0.04206149034684414,
+    "rentry_pprice_dist_wallet_exposure_weighting": 72.60717733481191,
+    "wallet_exposure_limit": 0.1
+  },
+  "short": {
+    "auto_unstuck_ema_dist": 0.07303178720535383,
+    "auto_unstuck_wallet_exposure_threshold": 0.46868009629251284,
+    "ddown_factor": 2.657316456804674,
+    "ema_span_0": 36.49703045963208,
+    "ema_span_1": 966.5436223544057,
+    "enabled": true,
+    "initial_eprice_ema_dist": -0.03820652414575059,
+    "initial_qty_pct": 0.03288801847256943,
+    "markup_range": 0.028215930177983302,
+    "min_markup": 0.020150177109439033,
+    "n_close_orders": 7,
+    "rentry_pprice_dist": 0.03696133944618645,
+    "rentry_pprice_dist_wallet_exposure_weighting": 60.71282426421417,
+    "wallet_exposure_limit": 0.1
+  }
+}
