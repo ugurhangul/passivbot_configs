@@ -16,5 +16,5 @@ jobs:
     - uses: actions/checkout@v2
     - name: Deploy to Live
       run: |
-       cp -Ri ./ /home/ubuntu/passivbot/configs/live  
+       cp -R ./ /home/ubuntu/passivbot/configs/live  
         
