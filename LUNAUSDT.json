@@ -1,0 +1,36 @@
+{
+  "config_name": "LUNAUSDT long-0.00516380655464825 short-0.0128923092609894",
+  "logging_level": 0,
+  "long": {
+    "auto_unstuck_ema_dist": 0.012097537335002973,
+    "auto_unstuck_wallet_exposure_threshold": 0.06292234198460267,
+    "ddown_factor": 0.20963914220856672,
+    "ema_span_0": 4.662726182174163,
+    "ema_span_1": 765.6061603574816,
+    "enabled": true,
+    "initial_eprice_ema_dist": -0.001851295823788064,
+    "initial_qty_pct": 0.021832580545220772,
+    "markup_range": 0.022561814267846536,
+    "min_markup": 0.05324466213459882,
+    "n_close_orders": 9,
+    "rentry_pprice_dist": 0.033644406709368836,
+    "rentry_pprice_dist_wallet_exposure_weighting": 6.438519085426536,
+    "wallet_exposure_limit": 0.1
+  },
+  "short": {
+    "auto_unstuck_ema_dist": 0.006599898561674752,
+    "auto_unstuck_wallet_exposure_threshold": 0.8325588086168875,
+    "ddown_factor": 2.5385466101836687,
+    "ema_span_0": 11.295648817642029,
+    "ema_span_1": 402.0918602705742,
+    "enabled": true,
+    "initial_eprice_ema_dist": -0.0008117704283392526,
+    "initial_qty_pct": 0.021692325905168994,
+    "markup_range": 0.0495094609079127,
+    "min_markup": 0.0368738437294421,
+    "n_close_orders": 11,
+    "rentry_pprice_dist": 0.024586194648912006,
+    "rentry_pprice_dist_wallet_exposure_weighting": 64.29818306788478,
+    "wallet_exposure_limit": 0.1
+  }
+}
